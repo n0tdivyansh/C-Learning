@@ -2,7 +2,7 @@
 
 This directory contains completed C programs for various tasks. Each program is designed to demonstrate specific concepts and functionalities in C programming.
 
-## Programs
+## Programs Example:
 
 ### even_odd.c
 
